@@ -1,0 +1,73 @@
+Task 7 – Identify and Remove Suspicious Browser Extensions
+
+Objective:
+To identify and remove potentially harmful browser extensions in order to improve browser security and performance.
+
+Tools Used:
+
+Google Chrome (latest version)
+
+Steps Taken:
+
+Opened Google Chrome and navigated to the Extensions page:
+
+Menu → More Tools → Extensions
+
+Or directly visited chrome://extensions/
+
+Reviewed all installed extensions carefully.
+
+Checked each extension’s permissions and purpose.
+
+Verified the publisher’s authenticity and cross-checked reviews online.
+
+Looked for:
+
+Extensions I don’t remember installing.
+
+Extensions requesting excessive permissions (e.g., access to all websites, reading clipboard data).
+
+Poorly rated or no longer maintained extensions.
+
+Identified suspicious/unused extensions:
+
+Example:  Free Video Downloader (installed long ago, no updates, excessive permissions).
+
+Removed identified suspicious/unused extensions by clicking Remove.
+
+Restarted the browser to apply changes.
+
+Extensions Removed:
+
+CSS Peeper – Unknown developer, last updated 2019, excessive permissions.
+
+Quick PDF Merge – Not in use, permissions to read/write all data on visited sites.
+
+Outcome:
+
+Removed two suspicious/unused extensions.
+
+Browser performance improved (faster startup).
+
+Reduced security risks from potentially malicious extensions.
+
+Awareness Notes:
+Malicious browser extensions can:
+
+Steal login credentials.
+
+Track browsing history and personal data.
+
+Insert ads or malicious scripts into webpages.
+
+Redirect users to phishing websites.
+
+Preventive Measures:
+
+Install extensions only from trusted sources.
+
+Review permissions before installation.
+
+Keep extensions updated or remove unused ones.
+
+Periodically audit installed extensions for security., "generate a pdf report of this data 
